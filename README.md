@@ -1,6 +1,6 @@
-## &emsp;我打开门 
-## 欢迎四方的客人
-## 你好，免贵姓隋
+## &emsp;&emsp;&emsp;&emsp;我打开城门 
+## &emsp;&emsp;&emsp;欢迎四方的客人
+## &emsp;&emsp;&emsp;你好，免贵姓隋
 
 
 <!-- .slide -->
