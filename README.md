@@ -5,7 +5,7 @@
 
 <!-- .slide -->
 
-## Contact
+## 联系我
 
 - E-mail:
   - **[syzimage@163.com](mailto:syzimage@163.com)**
@@ -14,17 +14,42 @@
 
 <!-- .slide -->
 
-## Education
+## 工作技能/知识
 
 <!-- .slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
+### 一、工程基础
+- 编程语言
+  - Python
+  - C++
+- 软件工程
+  - 算法与数据结构
+  - 代码规范
+- 操作系统
+- 数据库
+### 二、机器学习基础
+- 数学基础
+- 可视化
+- 误差分析与调优
+- 传统机器学习
+  - KNN
+  - 决策树
+  - 朴素贝叶斯
+  - 线性回归
+  - 逻辑回归
+  - SVM
+  - 集成学习
+  - 聚类
+- 深度学习
+  - 基础知识
+  - 分类网络
+  - 轻量级网络
+  - 目标检测网络
+  - 图像分割网络
+  - 数据增强方法
+  - 模型压缩方法
+### 三、算法框架
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-  - Multicore Computing
 
 <!-- .slide -->
 
